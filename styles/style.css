@@ -20,21 +20,21 @@ nav {
 
 .page-content {
     display: grid;
-    grid-template-columns: 2fr 3fr;
+   
 }
 
 .general-info {
-    width: 40%;
     margin: 20px;
     background-color: antiquewhite;
     border: solid;
 }
 
-.nav-item {
-    border: solid;
-    background-color: rgb(0, 0, 0);
-    color: aliceblue;
+A {
+    color:white;
+    text-decoration: none;
 }
+
+
 
 .logo {
     margin: 0;
